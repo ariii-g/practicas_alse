@@ -1,0 +1,3 @@
+/home/asgd10/ejercicios_corte2_1/practicas_alse/practica_4/Carrito_compras/build/CMakeFiles/carrito.dir
+/home/asgd10/ejercicios_corte2_1/practicas_alse/practica_4/Carrito_compras/build/CMakeFiles/edit_cache.dir
+/home/asgd10/ejercicios_corte2_1/practicas_alse/practica_4/Carrito_compras/build/CMakeFiles/rebuild_cache.dir
