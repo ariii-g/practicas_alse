@@ -1,0 +1,3 @@
+/home/asgd10/ejercicios_corte2_1/practicas_alse/parcial_2/build/CMakeFiles/GestionInventario.dir
+/home/asgd10/ejercicios_corte2_1/practicas_alse/parcial_2/build/CMakeFiles/edit_cache.dir
+/home/asgd10/ejercicios_corte2_1/practicas_alse/parcial_2/build/CMakeFiles/rebuild_cache.dir

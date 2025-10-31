@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GestionInventario.dir/src/main.cpp.o CMakeFiles/GestionInventario.dir/src/Producto.cpp.o -o GestionInventario 
